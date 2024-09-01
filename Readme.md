@@ -1,0 +1,1 @@
+<!-- Team1, team2 and core the packages that shares reusable components -->
